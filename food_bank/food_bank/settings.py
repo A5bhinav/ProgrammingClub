@@ -50,6 +50,12 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
+# STATIC_URL = '/'
+
+# STATICFILES_DIRS = [
+#     BASE_DIR / "static",
+# ]
+
 ROOT_URLCONF = 'food_bank.urls'
 
 TEMPLATES = [
